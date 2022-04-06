@@ -1,0 +1,43 @@
+12
+-2
+ROBOT fell in water! With number of executed steps :6
+-2
+ROBOT fell in water! With number of executed steps :4
+-3
+ROBOT crashed! With number of executed steps :7
+-2
+ROBOT fell in water! With number of executed steps :2
+-3
+ROBOT crashed! With number of executed steps :2
+Le robot est sorti :-) With number of executed steps :10
+-2
+ROBOT fell in water! With number of executed steps :3
+Le robot est sorti :-) With number of executed steps :10
+-3
+ROBOT crashed! With number of executed steps :3
+-3
+ROBOT crashed! With number of executed steps :4
+-3
+ROBOT crashed! With number of executed steps :2
+-3
+ROBOT crashed! With number of executed steps :3
+
+---------------------------------------------
+  Event     |     Times    |    Percentage     
+---------------------------------------------
+ In water   |       4      |      33.333336      
+---------------------------------------------
+ Crashed    |       6      |      50.000000   
+---------------------------------------------
+ Blocked    |       0      |      0.000000    
+---------------------------------------------
+ Exit maze  |       2     |       16.666668    
+---------------------------------------------
+Average steps executed : 10.000000
+---------------------------------------------
+
+Robot was in water 4 times which is 33.333336 percent of all landscapes
+Robot crashed 6 times which is 50.000000 percent of all landscapes
+Robot is still in the maze 0 times which is 0.000000 percent of all landscapes
+All valid landscapes are 16.666668 percent of all generated
+All valid landscapes are 2 and average steps was 10.000000

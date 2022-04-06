@@ -1,0 +1,41 @@
+20
+ROBOT is still blocked in the maze. Max number of steps is reached : 2000
+Le robot est sorti :-) With number of executed steps :157
+Le robot est sorti :-) With number of executed steps :157
+ROBOT is still blocked in the maze. Max number of steps is reached : 2000
+ROBOT is still blocked in the maze. Max number of steps is reached : 2000
+Le robot est sorti :-) With number of executed steps :385
+ROBOT is still blocked in the maze. Max number of steps is reached : 2000
+Le robot est sorti :-) With number of executed steps :253
+Le robot est sorti :-) With number of executed steps :457
+Le robot est sorti :-) With number of executed steps :157
+Le robot est sorti :-) With number of executed steps :457
+Le robot est sorti :-) With number of executed steps :433
+Le robot est sorti :-) With number of executed steps :157
+ROBOT is still blocked in the maze. Max number of steps is reached : 2000
+Le robot est sorti :-) With number of executed steps :157
+Le robot est sorti :-) With number of executed steps :397
+Le robot est sorti :-) With number of executed steps :301
+Le robot est sorti :-) With number of executed steps :253
+ROBOT is still blocked in the maze. Max number of steps is reached : 2000
+ROBOT is still blocked in the maze. Max number of steps is reached : 2000
+
+---------------------------------------------
+  Event     |     Times    |    Percentage     
+---------------------------------------------
+ In water   |       0      |      0.000000      
+---------------------------------------------
+ Crashed    |       0      |      0.000000   
+---------------------------------------------
+ Blocked    |       7      |      35.000000    
+---------------------------------------------
+ Exit maze  |       13     |       65.000000    
+---------------------------------------------
+Average steps executed : 286.230774
+---------------------------------------------
+
+Robot was in water 0 times which is 0.000000 percent of all landscapes
+Robot crashed 0 times which is 0.000000 percent of all landscapes
+Robot is still in the maze 7 times which is 35.000000 percent of all landscapes
+All valid landscapes are 65.000000 percent of all generated
+All valid landscapes are 13 and average steps was 286.230774

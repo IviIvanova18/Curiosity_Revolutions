@@ -1,0 +1,41 @@
+20
+Le robot est sorti :-) With number of executed steps :73
+Le robot est sorti :-) With number of executed steps :73
+Le robot est sorti :-) With number of executed steps :97
+Le robot est sorti :-) With number of executed steps :73
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :241
+Le robot est sorti :-) With number of executed steps :73
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :193
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :61
+Le robot est sorti :-) With number of executed steps :109
+
+---------------------------------------------
+  Event     |     Times    |    Percentage     
+---------------------------------------------
+ In water   |       0      |      0.000000      
+---------------------------------------------
+ Crashed    |       0      |      0.000000   
+---------------------------------------------
+ Blocked    |       0      |      0.000000    
+---------------------------------------------
+ Exit maze  |       20     |       100.000000    
+---------------------------------------------
+Average steps executed : 83.199997
+---------------------------------------------
+
+Robot was in water 0 times which is 0.000000 percent of all landscapes
+Robot crashed 0 times which is 0.000000 percent of all landscapes
+Robot is still in the maze 0 times which is 0.000000 percent of all landscapes
+All valid landscapes are 100.000000 percent of all generated
+All valid landscapes are 20 and average steps was 83.199997
